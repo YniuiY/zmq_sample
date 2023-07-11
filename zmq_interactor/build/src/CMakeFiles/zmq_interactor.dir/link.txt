@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/zmq_interactor.dir/main.cpp.o CMakeFiles/zmq_interactor.dir/mock_zmq_interactor.cpp.o CMakeFiles/zmq_interactor.dir/mock_zmq_publiser.cpp.o CMakeFiles/zmq_interactor.dir/mock_zmq_subscriber.cpp.o -o ../output/bin/zmq_interactor  -lzmq -lpthread 
